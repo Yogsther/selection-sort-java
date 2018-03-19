@@ -1,3 +1,4 @@
+![Selection Sort Image](https://i.imgur.com/r9ak8wi.png)
 # Sort arrays with selection sort.
 Selection sort methods in Java
 
